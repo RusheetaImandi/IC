@@ -1,3 +1,5 @@
+/*Merging the strings: Given two strings str1 and str2 in two files file1 and file2, write a program to create a third string str3 with one character from each array alternatively. If one string is longer than the other, append the extra characters to str3. Write str3 into a different text file called file3.*/
+
 ﻿#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
